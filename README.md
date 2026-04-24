@@ -2,8 +2,7 @@
 
 Simple breast cancer classification in PyTorch
 
-``kaggle
-Attribute Information:
+## Attributes Information:
 
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
@@ -32,4 +31,3 @@ All feature values are recoded with four significant digits.
 Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
-``
